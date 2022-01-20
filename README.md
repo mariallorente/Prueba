@@ -1,2 +1,2 @@
-# Prueba
+# Practica general
 Curso
